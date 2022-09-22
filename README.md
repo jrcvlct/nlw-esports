@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img alt="Logo" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" width="25%">
-</h1>
+<p align="center">
+  <img src="/criando-anuncio.gif"/>
+</p>
 
-# ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas no site foram:
 
@@ -48,12 +48,6 @@ As técnicas e tecnologias utilizadas no site foram:
 - [X] Buscar discord pelo ID do anúncio;
 - [X] Listagem de anúncios por game;
 - [X] Criação de novo anúncio;
-
-
-## Design da aplicação WEB
-<p align="center">
-  <img src="/criando-anuncio.gif"/>
-</p>
 
 ## Design da aplicação Mobile
 <p align="center">
